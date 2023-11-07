@@ -1,1 +1,1 @@
-<h2>longest-common-prefix Notes</h2><hr>I need to review the code
+<h2>longest-common-prefix Notes</h2><hr>I need to review the code.
